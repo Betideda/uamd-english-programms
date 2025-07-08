@@ -83,37 +83,58 @@
         <h2 class="text-3xl font-bold text-center mb-12 text-blue-800">Our Academic Programs</h2>
         <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             <!-- Faculty Cards -->
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-briefcase"></i>
-                </div>
-                <h3 class="text-xl font-bold mb-3">Business & Education</h3>
-                <p class="text-gray-700">Bachelor, Master and PhD programs in business administration, economics, and education sciences.</p>
-            </div>
 
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-balance-scale"></i>
-                </div>
-                <h3 class="text-xl font-bold mb-3">Political Science & Law</h3>
-                <p class="text-gray-700">Comprehensive programs in political science, international relations, and legal studies.</p>
-            </div>
-
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-laptop-code"></i>
-                </div>
-                <h3 class="text-xl font-bold mb-3">Information Technology</h3>
-                <p class="text-gray-700">Cutting-edge programs in computer science, software engineering, and data science.</p>
-            </div>
 
             <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
                 <div class="text-blue-800 text-4xl mb-4">
                     <i class="fas fa-user-graduate"></i>
                 </div>
-                <h3 class="text-xl font-bold mb-3">Professional Studies</h3>
-                <p class="text-gray-700">Specialized programs designed for professional development in various fields.</p>
+                <h3 class="text-xl font-bold mb-3">Quantum Information Technology</h3>
+                <p class="text-gray-700">Master of science in "Quantum Information Technology".</p>
             </div>
+            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
+                <div class="text-blue-800 text-4xl mb-4">
+                    <i class="fas fa-user-graduate"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">Restaurant Management</h3>
+                <p class="text-gray-700">Bachelor in "Restaurant Management"</p>
+            </div>
+            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
+                <div class="text-blue-800 text-4xl mb-4">
+                    <i class="fas fa-user-graduate"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">Finance Accounting</h3>
+                <p class="text-gray-700">Bachelor in "Finance Accounting"</p>
+            </div>
+            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
+                <div class="text-blue-800 text-4xl mb-4">
+                    <i class="fas fa-user-graduate"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">Banking Finance</h3>
+                <p class="text-gray-700">Bachelor in "Banking Finance"</p>
+            </div>
+            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
+                <div class="text-blue-800 text-4xl mb-4">
+                    <i class="fas fa-user-graduate"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">Marketing Management</h3>
+                <p class="text-gray-700">Bachelor in "Marketing Management"</p>
+            </div>
+            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
+                <div class="text-blue-800 text-4xl mb-4">
+                    <i class="fas fa-user-graduate"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">Business Administration</h3>
+                <p class="text-gray-700">Bachelor in "Business Administration"</p>
+            </div>
+            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
+                <div class="text-blue-800 text-4xl mb-4">
+                    <i class="fas fa-user-graduate"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">MEP</h3>
+                <p class="text-gray-700">Master of science in "Maritime Environmental Protection And Management".</p>
+            </div>
+
         </div>
     </div>
 </section>
