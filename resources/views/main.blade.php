@@ -85,55 +85,78 @@
             <!-- Faculty Cards -->
 
 
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-user-graduate"></i>
+            <a class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="https://uamd.edu.al/course/master-of-science-in-quantum-information-technology/" target="_blank">
+                <div>
+                    <div class="text-blue-800 text-4xl mb-4">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Quantum Information Technology</h3>
+                    <p class="text-gray-700">Master of science in "Quantum Information Technology".</p>
                 </div>
-                <h3 class="text-xl font-bold mb-3">Quantum Information Technology</h3>
-                <p class="text-gray-700">Master of science in "Quantum Information Technology".</p>
-            </div>
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-user-graduate"></i>
+
+            </a>
+
+
+            <a  class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="https://uamd.edu.al/course/bachelor-in-restaurant-management/" target="_blank">
+                <div>
+                    <div class="text-blue-800 text-4xl mb-4">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Restaurant Management</h3>
+                    <p class="text-gray-700">Bachelor in "Restaurant Management"</p>
                 </div>
-                <h3 class="text-xl font-bold mb-3">Restaurant Management</h3>
-                <p class="text-gray-700">Bachelor in "Restaurant Management"</p>
-            </div>
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-user-graduate"></i>
+            </a>
+
+            <a  class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="https://uamd.edu.al/course/bachelor-in-finance-accounting/" target="_blank">
+                <div>
+                    <div class="text-blue-800 text-4xl mb-4">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Finance Accounting</h3>
+                    <p class="text-gray-700">Bachelor in "Finance Accounting"</p>
                 </div>
-                <h3 class="text-xl font-bold mb-3">Finance Accounting</h3>
-                <p class="text-gray-700">Bachelor in "Finance Accounting"</p>
-            </div>
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-user-graduate"></i>
+            </a>
+
+            <a  class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="https://uamd.edu.al/course/bachelor-in-banking-finance/" target="_blank">
+                <div>
+                    <div class="text-blue-800 text-4xl mb-4">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Banking Finance</h3>
+                    <p class="text-gray-700">Bachelor in "Banking Finance"</p>
                 </div>
-                <h3 class="text-xl font-bold mb-3">Banking Finance</h3>
-                <p class="text-gray-700">Bachelor in "Banking Finance"</p>
-            </div>
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-user-graduate"></i>
+            </a>
+
+            <a  class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="https://uamd.edu.al/course/introduction-to-financial-accounting/" target="_blank">
+                <div>
+                    <div class="text-blue-800 text-4xl mb-4">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Marketing Management</h3>
+                    <p class="text-gray-700">Bachelor in "Marketing Management"</p>
                 </div>
-                <h3 class="text-xl font-bold mb-3">Marketing Management</h3>
-                <p class="text-gray-700">Bachelor in "Marketing Management"</p>
-            </div>
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-user-graduate"></i>
+            </a>
+
+            <a  class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="https://uamd.edu.al/course/introduction-to-taxation/" target="_blank">
+                <div>
+                    <div class="text-blue-800 text-4xl mb-4">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Business Administration</h3>
+                    <p class="text-gray-700">Bachelor in "Business Administration"</p>
                 </div>
-                <h3 class="text-xl font-bold mb-3">Business Administration</h3>
-                <p class="text-gray-700">Bachelor in "Business Administration"</p>
-            </div>
-            <div class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover">
-                <div class="text-blue-800 text-4xl mb-4">
-                    <i class="fas fa-user-graduate"></i>
+            </a>
+
+            <a  class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="" target="_blank">
+                <div>
+                    <div class="text-blue-800 text-4xl mb-4">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">MEP</h3>
+                    <p class="text-gray-700">Master of science in "Maritime Environmental Protection And Management".</p>
                 </div>
-                <h3 class="text-xl font-bold mb-3">MEP</h3>
-                <p class="text-gray-700">Master of science in "Maritime Environmental Protection And Management".</p>
-            </div>
+            </a>
+
 
         </div>
     </div>
