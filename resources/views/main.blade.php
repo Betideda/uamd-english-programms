@@ -276,7 +276,7 @@
                             <h4 class="font-semibold text-lg mb-2">Application to National Examination Agency</h4>
                             <p class="text-gray-700">Submit documents to obtain equivalence of high school studies:</p>
                             <ul class="list-disc pl-5 mt-2 space-y-1 text-gray-700">
-                                <li>Completed Application Form <a target="_blank" style="color: dodgerblue" href="{{asset('application.pdf')}}">(Click here to download the application)</a> </li>
+                                <li>Completed Application Form | Fill out in both languages <a target="_blank" style="color: dodgerblue" href="{{asset('merged_application.pdf')}}">(Click here to download the application)</a> </li>
                                 <li>Copy of National ID Document</li>
                                 <li>Notarized copy of High School Diploma (translated)</li>
                                 <li>Notarized copy of High School Grades List (translated)</li>
