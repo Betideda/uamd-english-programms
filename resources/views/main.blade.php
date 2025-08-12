@@ -147,7 +147,7 @@
                 </div>
             </a>
 
-            <a  class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="" target="_blank">
+            <a  class="faculty-card rounded-lg p-6 shadow-md transition-all card-hover" href="https://uamd.edu.al/maritime-environmental-protection-and-management-program/" target="_blank">
                 <div>
                     <div class="text-blue-800 text-4xl mb-4">
                         <i class="fas fa-user-graduate"></i>
